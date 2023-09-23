@@ -46,7 +46,8 @@ fun main(){
 // println(num)
 
 
-
+val array: Array<String> = arrayOf("10", "20", "30", "50")
+println(array.joinToString())
 
 
 }
